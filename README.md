@@ -37,7 +37,7 @@
 ![Quarkus](https://img.shields.io/badge/-Quarkus-lightyellow?style=for-the-badge&logo=quarkus)
 ![Intelli-J](https://img.shields.io/badge/-IntelliJ-blue?style=flat-square&logo=jetbrains)
 ![Tekton](https://img.shields.io/badge/-Tekton-lightblue?style=flat-square&logo=tekton)
-
+![Eclipse](https://img.shields.io/badge/-eclipse-lightblue?style=for-the-badge&logo=eclipse)
 
 
 
