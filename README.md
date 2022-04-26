@@ -20,6 +20,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Podman](https://img.shields.io/badge/-PODMAN-orange?style=for-the-badge&logo=podman)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-linux-pink?style=for-the-badge&logo=linux&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![KAFKA](https://img.shields.io/badge/-kafka-green?style=for-the-badge&logo=apache)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
