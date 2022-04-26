@@ -1,7 +1,10 @@
 ### Hi there 👋
 ![Zvi's github stats](https://github-readme-stats.vercel.app/api?username=zvigrinberg&count_private=true&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zvigrinberg&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!--
 **zvigrinberg/zvigrinberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
