@@ -39,7 +39,7 @@
 ![Intelli-J](https://img.shields.io/badge/-IntelliJ-blue?style=flat-square&logo=jetbrains)
 ![Tekton](https://img.shields.io/badge/-Tekton-lightblue?style=flat-square&logo=tekton)
 ![Eclipse](https://img.shields.io/badge/-eclipse-lightblue?style=for-the-badge&logo=eclipse)
-
+![Nginx](https://img.shields.io/badge/NGINX-green?style=for-the-badge&logo=nginx&logoColor=blue)
 
 
 
